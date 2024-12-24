@@ -53,9 +53,6 @@
   <a href="https://bsky.app/profile/ziggornif.bsky.social" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://twitter.com/Ziggornif" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
   <a href="https://dev.to/ziggornif" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
   </a>
