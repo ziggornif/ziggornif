@@ -41,7 +41,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziggornif&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziggornif&theme=light&hide_border=false&size_weight=0.5&count_weight=0.5&hide=html&layout=compact" />
 </div>
 
 ###
