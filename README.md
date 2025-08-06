@@ -11,10 +11,10 @@
 ###
 
 <p align="left">
-🌱 I’m currently learning Linux from scratch, how does the Linux kernel work and laser cutting<br>
-🔭 I’m currently working on Rust SLMs with RAG apps<br>
+🌱 I'm currently learning how to write emulators and implementing a Game Boy emulator<br>
+🔭 I'm currently working on Rust LLM/SLM apps with RAG and MCP, and building my homelab<br>
 📝 I write articles on <a href="https://blog.ziggornif.xyz/" target="_blank">https://blog.ziggornif.xyz/</a><br>
-💬 Ask me about : Hexagonal architecture, backend dev, 3D printing and home automation<br>
+💬 Ask me about : Hexagonal architecture, backend dev, hardware/embedded systems, 3D printing, laser cutting and home automation<br>
 👨‍💻 All of my projects are available on <a href="https://github.com/ziggornif" target="_blank">GitHub</a> and <a href="https://gitlab.com/ziggornif" target="_blank">GitLab</a><br>
 </p>
 
